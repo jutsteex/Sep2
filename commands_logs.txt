@@ -1,0 +1,1 @@
+nano, cd, cd .., cp -r, ls, touch, mkdir, цикл for
